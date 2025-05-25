@@ -189,10 +189,7 @@ cython_debug/
 # ─── Django collectstatic (если STATIC_ROOT=./staticfiles) ───
 staticfiles/
 
-# ─── Docker (опционально) ───
-Dockerfile
-docker-compose.yml
-*.env.docker
+
 
 # ─── macOS ───
 .DS_Stor
